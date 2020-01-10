@@ -71,3 +71,8 @@ Works for tags, too!
 ```bash
 git show-ref HEAD -s
 ```
+### Reset branch and remove all changes
+
+```bash
+git reset --hard
+```
